@@ -1,5 +1,3 @@
 this is good features
 my new file
 
-new bug
-old bug
